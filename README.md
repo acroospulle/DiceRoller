@@ -7,4 +7,4 @@
 
 
 
-[x] user can click roll to roll the dice
+- [x] user can click roll to roll the dice
